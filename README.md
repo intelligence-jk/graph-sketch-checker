@@ -1,4 +1,6 @@
-# graph-sketch-checker
+# LYNX: Lines, Yields and Nodes eXamined
+
+Formerly `graph-sketch-checker`.
 
 Checks a student's claimed sketch of a polynomial graph against its exact features: y-intercept, x-intercepts, end behaviour and points on the curve.
 
