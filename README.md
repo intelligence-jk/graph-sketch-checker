@@ -1,4 +1,4 @@
-# LYNX: Lines, Yields and Nodes eXamined
+# ORESME: named after Nicole Oresme, who drew some of the first graphs of one quantity against another
 
 Formerly `graph-sketch-checker`.
 
