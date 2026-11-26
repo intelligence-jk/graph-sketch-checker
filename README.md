@@ -1,4 +1,4 @@
-# ORESME: named after Nicole Oresme, who drew some of the first graphs of one quantity against another
+# ROBERVAL: named after Gilles de Roberval, who found the tangent to a curve by treating it as a moving point
 
 Formerly `graph-sketch-checker`.
 
